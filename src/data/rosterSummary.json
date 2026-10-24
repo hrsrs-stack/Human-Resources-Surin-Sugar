@@ -1,0 +1,31 @@
+{
+  "totalEmployees": 1068,
+  "fastingCount": 914,
+  "nonFastingCount": 154,
+  "maleCount": 901,
+  "femaleCount": 167,
+  "departments": {
+    "จัดหาวัตถุดิบ": 260,
+    "ผลิต": 554,
+    "บัญชี": 45,
+    "ธุรการ": 54,
+    "บริหารทรัพยากรมนุษย์": 47,
+    "บริหารคลังสินค้า": 44,
+    "ส่วนงานวิจัย": 12,
+    "ส่วนตรวจสอบ": 4,
+    "ทั่วไป": 22,
+    "รัฐกิจสัมพันธ์และหลักทรัพย์": 10,
+    "การเงิน": 3,
+    "ส่วนงานไอที": 13
+  },
+  "stationTotals": {
+    "station1": 1068,
+    "station2_ekg_male": 502,
+    "station3_urine": 1068,
+    "station4_xray": 1068,
+    "station5_eye_spiro": 1068,
+    "station6_ekg_female": 98,
+    "station7_audio": 429,
+    "station8_abi": 599
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "การตรวจสุขภาพประจำปี 2569 | บริษัท น้ำตาลสุรินทร์ จำกัด",
+  "description": "ระบบประชาสัมพันธ์และคู่มือเตรียมความพร้อมการตรวจสุขภาพประจำปี 2569 บริษัท น้ำตาลสุรินทร์ จำกัด (KI Sugar Group)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
